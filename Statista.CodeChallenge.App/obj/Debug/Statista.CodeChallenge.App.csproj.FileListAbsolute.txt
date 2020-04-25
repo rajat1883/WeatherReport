@@ -1,0 +1,65 @@
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Statista.CodeChallenge.App.exe.config
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Statista.CodeChallenge.App.exe
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Statista.CodeChallenge.App.pdb
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\FontAwesome.WPF.dll
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Newtonsoft.Json.dll
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\NodaTime.dll
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\FontAwesome.WPF.xml
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Newtonsoft.Json.xml
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\NodaTime.pdb
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\NodaTime.xml
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.csprojAssemblyReference.cache
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\MainWindow.g.cs
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\App.g.cs
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App_MarkupCompile.cache
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App_MarkupCompile.lref
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\MainWindow.baml
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.g.resources
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.Properties.Resources.resources
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.csproj.GenerateResource.cache
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.csproj.CopyComplete
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.exe
+E:\Statista Assignment\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.pdb
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Statista.CodeChallenge.App.exe.config
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Statista.CodeChallenge.App.exe
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Statista.CodeChallenge.App.pdb
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\FontAwesome.WPF.dll
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Newtonsoft.Json.dll
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\NodaTime.dll
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\FontAwesome.WPF.xml
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Newtonsoft.Json.xml
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\NodaTime.pdb
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\NodaTime.xml
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\MainWindow.g.cs
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\App.g.cs
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App_MarkupCompile.cache
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App_MarkupCompile.lref
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\MainWindow.baml
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.g.resources
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.Properties.Resources.resources
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.csproj.GenerateResource.cache
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.csproj.CopyComplete
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.exe
+E:\Statista Assignment\code-challenge - Version 4\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.pdb
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\App.g.cs
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App_MarkupCompile.cache
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.exe
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.pdb
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Statista.CodeChallenge.App.exe.config
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Statista.CodeChallenge.App.exe
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Statista.CodeChallenge.App.pdb
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\FontAwesome.WPF.dll
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\NodaTime.dll
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\FontAwesome.WPF.xml
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\NodaTime.pdb
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\bin\Debug\NodaTime.xml
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\MainWindow.g.cs
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App_MarkupCompile.lref
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\MainWindow.baml
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.g.resources
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.Properties.Resources.resources
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Statista Code Challenge\code-challenge\Statista.CodeChallenge.App\Statista.CodeChallenge.App\obj\Debug\Statista.CodeChallenge.App.csproj.CopyComplete

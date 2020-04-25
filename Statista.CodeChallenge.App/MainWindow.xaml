@@ -1,0 +1,66 @@
+﻿<Window x:Class="Statista.CodeChallenge.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Statista.CodeChallenge.App"
+        xmlns:fa="http://schemas.fontawesome.io/icons/"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="640" Width="480">
+    <StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label>DarkSky API Key:</Label>
+            <TextBox Name="ApiKey" Width="250">Your Key
+            </TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label>Latitude:</Label>
+            <TextBox Name="Latitude" Width="250">Latitude for Location</TextBox>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label>Longitude:</Label>
+            <TextBox Name="Longitude" Width="250">Longitude for Location</TextBox>
+        </StackPanel>
+
+        <Button Click="Button_Click">Load weather for location</Button>
+
+        <StackPanel Margin="0,10,0,0" Orientation="Horizontal">
+            <Label Content="Location:"/>
+            <Label Width="165" x:Name="Location"/>
+            <fa:ImageAwesome Name="LoadingIcon" Visibility="Hidden" Icon="Refresh" Spin="True" Width="20" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label>Summary:</Label>
+            <Label Name="Summary"></Label>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label>Actual Temperature:</Label>
+            <Label Name="ActualTemprature"></Label>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label>Feels like Temperature:</Label>
+            <Label Name="FeelsLikeTemprature"></Label>
+        </StackPanel>
+        <StackPanel Orientation="Horizontal">
+            <Label>Wind Speed:</Label>
+            <Label Name="WindSpeed"></Label>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label>Humidity:</Label>
+            <Label Name="Humidity"></Label>
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal">
+            <Label>Cloud Cover:</Label>
+            <Label Name="CloudCover"></Label>
+        </StackPanel>
+
+    </StackPanel>
+</Window>
+
